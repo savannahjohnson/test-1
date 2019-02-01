@@ -2,7 +2,7 @@
 
 The goal of test-1 is to ...
 
-My name is Savannah 
+My name is Sav1
 
 ## Foods
 
